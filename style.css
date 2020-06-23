@@ -1,0 +1,59 @@
+body{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/1200px-Bois.JPG);
+  width: 60%;
+  margin:auto;
+}
+#cerca-mail{
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  padding: 7px 0;
+  margin: 7px 0;
+}
+h1{
+  display: inline;
+  vertical-align: middle;
+  color: white;
+}
+#foto{
+  height: 80px;
+  vertical-align: middle;
+}
+#contatore{
+  color: white;
+  padding: 8px 0;
+  font-size: 22px;
+}
+#contatore span{
+  display: inline-block;
+  background-color: orange;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+.email{background-color: lightgrey;
+  border: 1px solid black;
+
+}
+  #sfondo-bianco{
+    background-color: white;
+  }
+
+#poweredby{
+  color: white;
+  font-size: 30px;
+}
+#corsivo{
+  font-style: italic;
+}
+footer{
+  text-align: center;
+}
+.testomail{
+  color:grey;
+}
+hr{
+  border:3px solid white;
+}
